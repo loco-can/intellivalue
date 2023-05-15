@@ -69,7 +69,7 @@ class INTELLIVALUE {
 		void index(uint8_t);                // set index
 
 	private:
-		MEASURE_INTELLIVALUE _value;
+		MEASURE_VALUE _value;
 };
 
 #endif
